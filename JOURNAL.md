@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> I want to get into VLSI.. so I think I want to make my own FPGA board!
+> I want to get into VLSI.. so I think I want to make my own FPGA board! It's based on the LFE5U-25 which has tons of capabilities which I can further use in the future!
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
